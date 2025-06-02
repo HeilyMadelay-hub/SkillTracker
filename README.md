@@ -500,4 +500,4 @@ MIT License - ver [LICENSE](LICENSE) para detalles.
 
 ---
 
-*Proyecto enfocado en IA + Ciberseguridad con implementaciones reales y funcionales para demostrar competencias en machine learning aplicado y ciberseguridad defensiva a nivel junior/mid.
+*Proyecto enfocado en IA + Ciberseguridad con implementaciones reales y funcionales para demostrar competencias en machine learning aplicado y ciberseguridad defensiva a nivel junior/mid.*
