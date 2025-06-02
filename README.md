@@ -2,12 +2,12 @@
 ## 📝 Descripción
 - SecureSkillAnalyzer es una aplicación web local que combina análisis inteligente de datos con seguridad robusta para el tracking personal de habilidades profesionales. Utiliza machine learning básico para     análisis de patrones y implementa controles de seguridad específicos contra amenazas comunes.
 
-### Lo que hace realmente:
-- Análisis ML: Clustering de skills, detección de anomalías en progreso, predicciones básicas
-- Seguridad avanzada: Rate limiting, input validation, security logging, detección de ataques
-- Dashboard inteligente: Visualizaciones con insights generados por algoritmos
-- Auditoría completa: Logging de todas las acciones para análisis de seguridad
-- Detección de patrones: Identifica comportamientos anómalos en el uso
+  ### Lo que hace realmente:
+  - Análisis ML: Clustering de skills, detección de anomalías en progreso, predicciones básicas
+  - Seguridad avanzada: Rate limiting, input validation, security logging, detección de ataques
+  - Dashboard inteligente: Visualizaciones con insights generados por algoritmos
+  - Auditoría completa: Logging de todas las acciones para análisis de seguridad
+  - Detección de patrones: Identifica comportamientos anómalos en el uso
 ## 🛠️ Tecnologías
 Frontend:
 - React 18 con validación de inputs robusta
