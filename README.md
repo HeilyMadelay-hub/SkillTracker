@@ -490,10 +490,6 @@ Los modelos se entrenan inicialmente con datos sintéticos y se pueden reentrena
 - 💼 LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
 - 📧 Email: tu.email@ejemplo.com
 
----
-
-**Proyecto desarrollado para demostrar competencias en machine learning aplicado y ciberseguridad defensiva a nivel junior/mid.**
-
 ## 📄 Licencia
 
 MIT License - ver [LICENSE](LICENSE) para detalles.
