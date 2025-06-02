@@ -1,7 +1,7 @@
 # SkillTracker - Tracker de Habilidades con IA y Seguridad
 ## 📝 Descripción
-SecureSkillAnalyzer es una aplicación web local que combina análisis inteligente de datos con seguridad robusta para el tracking personal de habilidades profesionales. Utiliza machine learning básico para análisis de patrones y implementa controles de seguridad específicos contra amenazas comunes.
-¿Por qué local? Privacidad total + control completo sobre la seguridad de los datos.
+- SecureSkillAnalyzer es una aplicación web local que combina análisis inteligente de datos con seguridad robusta para el tracking personal de habilidades profesionales. Utiliza machine learning básico para     análisis de patrones y implementa controles de seguridad específicos contra amenazas comunes.
+
 ### Lo que hace realmente:
 - Análisis ML: Clustering de skills, detección de anomalías en progreso, predicciones básicas
 - Seguridad avanzada: Rate limiting, input validation, security logging, detección de ataques
